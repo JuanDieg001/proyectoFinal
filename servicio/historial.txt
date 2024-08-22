@@ -1,0 +1,15 @@
+2024-08-08 09:00:57 - entro a la opcion mostrar todos los planetas
+2024-08-08 09:08:07 - entro a la opcion crear galaxia 100
+2024-08-08 09:42:17 - entro a la opcion crear galaxia 1234
+2024-08-22 13:14:42 - entro a la opcion mostrar galaxia 
+2024-08-22 13:14:49 - entro a la opcion crear galaxia 1
+2024-08-22 13:16:11 - entro a la opcion crear planeta: uno
+2024-08-22 13:16:15 - entro a la opcion mostrar todos los planetas
+2024-08-22 16:16:04 - entro a la opcion mostrar todos los planetas
+2024-08-22 16:50:11 - entro a la opcion crear galaxia 2
+2024-08-22 16:52:11 - entro a la opcion crear galaxia 3
+2024-08-22 17:02:35 - entro a la opcion mostrar galaxia 
+2024-08-22 17:04:22 - entro a la opcion buscar galaxia 
+2024-08-22 17:08:03 - entro a la opcion actualizar y se actualizó el id: 1
+2024-08-22 17:09:27 - entro a la opcion eliminar y se borro el id: 1
+2024-08-22 17:09:30 - entro a la opcion mostrar galaxia 
